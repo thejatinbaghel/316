@@ -1,0 +1,163 @@
+1. **Answer: Input, Processing, Storage, and Output**
+
+2. **Answer: Embedded operating system**
+
+3. **Answer: Third generation (1965 to 1980)**
+
+4. **Answer: Policy management**
+
+5. **Answer: Internet of Things (IoT) devices**
+
+6. **Answer: Mobile phones, IoT devices, and portable gaming devices**
+
+7. **Answer: IP addresses, MAC addresses**
+
+8. **Answer: Divide your starting number by 2 and divide each successive remainder by two until the remainder equals zero.**
+
+9. **Answer: Click the double box icon**
+
+10. **Answer: Click the rectangle or single box icon.**
+
+
+
+
+
+1. **Answer: CPU, Random Access Memory (RAM)**
+
+2. **Answer: Thermal**
+
+3. **Answer: Mouse**
+
+4. **Answer: Built-in, USB, and WiFi**
+
+5. **Answer: Back up your data.**
+
+6. **Answer: 1, 3, 2, 5, 4**
+
+7. **Answer: True**
+
+8. **Answer: Most external hard drives connect to a computer using a USB or eSATA connection.**
+
+9. **Answer: Monitor, Television sets**
+
+10. **Answer: Speakers, Microphone**
+
+
+
+1. **Answer: An interface**
+
+2. **Answer: The USB port**
+
+3. **Answer: High Definition Multimedia Interface (HDMI)**
+
+4. **Answer: Digital-to-analog converter**
+
+5. **Answer: Light blue analog line in, lime green audio line out, and a pink microphone connection in**
+
+6. **Answer: False**
+
+7. **Answer: Bluetooth**
+
+8. **Answer: True**
+
+9. **Answer: Access your operating system’s printer and scanner settings, 
+If you don’t see the network printer you want to connect to, use the additional Windows search options,
+Verify your computer has a network connection.**
+
+10. **Answer: Device Manager**
+
+
+
+
+
+1. **Answer: Motherboard**
+
+2. **Answer: Northbridge**
+
+3. **Answer: Typically provides faster access to the data**
+
+4. **Answer: Serial Advanced Technology Attachment (SATA) drive**
+
+5. **Answer: GPUs are specialized processors that perform the processing tasks necessary to display or render graphics.**
+
+6. **Answer: Speakers**
+
+7. **Answer: An accelerated graphics card**
+
+8. **Answer: The modem**
+
+9. **Answer: Passive cooling**
+
+10. **Answer: True**
+
+
+
+
+
+
+1. **Answer: Asking the user about the work locations, 
+Asking the user how many peripherals they use, 
+Asking the user about ergonomic accommodations**
+
+2. **Answer: Collecting and tying cables together**
+
+3. **Answer: Administrator, Standard, Other**
+
+4. **Answer: Command+ Shift+ 3**
+
+5. **Answer: Press the ALT +PRT SCR key simultaneously**
+
+6. **Answer: File names should consist of less than 50 characters, be as descriptive as possible, and avoid including spaces.**
+
+7. **Answer: Move**
+
+8. **Answer: Document findings, lessons learned, actions, and outcomes**
+
+9. **Answer: Business continuity**
+
+10. **Answer: Method, Cost**
+
+
+
+
+1. **Answer: input, processing, output, storage**
+
+2. **Answer: servers**
+
+3. **Answer: Binary notation**
+
+4. **Answer: In the Windows Taskbar search field, type “Windows Memory Diagnostic,” and run the diagnostic process. 
+On Windows 10 computers, open the Task Manager, select the Performance tab, and view the Memory section.**
+
+5. **Answer: True**
+
+6. **Answer: Transfer rate, Access time, Connector type**
+
+7. **Answer: Check the mouse's performance and consider updating its driver. 
+Check the keyboard connection and consider updating its driver.**
+
+8. **Answer: Device Manager**
+
+9. **Answer: The USB port**
+
+10. **Answer: True**
+
+11. **Answer: Wired networks are more reliable for mission-critical applications because they offer consistent connectivity and speed.**
+
+12. **Answer: IP-based peripheral**
+
+13. **Answer: Double Data Rate Fourth Generation (DDR4)**
+
+14. **Answer: Portable storage, Write-only storage**
+
+15. **Answer: Integrated GPU**
+
+16. **Answer: Heat sink compound**
+
+17. **Answer: True**
+
+18. **Answer: MacOS, Windows 10, Linux**
+
+19. **Answer: Hidden attribute**
+
+20. **Answer: Gathering information on the issue**
